@@ -1,0 +1,14 @@
+{
+    "Author": "Rumi",
+    "Name": "Rumi Tool!",
+    "Punchline": "A set of useful tools for the game.",
+    "Description": "A set of useful tools for the game currently including a sticky note tool.",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "note",
+        "tool",
+        "utility",
+        "sticky",
+        "rumi"
+    ]
+}
